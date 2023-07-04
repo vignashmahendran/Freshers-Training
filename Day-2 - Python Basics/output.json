@@ -1,0 +1,42 @@
+[
+    {
+        "Id": "1",
+        "Name": "Vignash",
+        "Skill": "javascript"
+    },
+    {
+        "Id": "2",
+        "Name": "Kiran",
+        "Skill": "c++"
+    },
+    {
+        "Id": "3",
+        "Name": "Asker",
+        "Skill": "python"
+    },
+    {
+        "Id": "4",
+        "Name": "Raj",
+        "Skill": "c"
+    },
+    {
+        "Id": "5",
+        "Name": "Hari",
+        "Skill": "python"
+    },
+    {
+        "Id": "6",
+        "Name": "Ragul",
+        "Skill": "c"
+    },
+    {
+        "Id": "7",
+        "Name": "Tarun",
+        "Skill": "java"
+    },
+    {
+        "Id": "8",
+        "Name": "Tamil",
+        "Skill": "java"
+    }
+]

@@ -8,9 +8,8 @@ try:
     df1=pd.read_csv(csv_file1)
     df2=pd.read_csv(csv_file2)
     common_col=list(set(df1) & set(df2))
-    common_col[0]
     output=pd.merge(df1,df2,on=common_col,how="inner")
-    output.to_csv(csv_merge_file)
+    output.to_csv(csv_merge_file,index=False)
     print("merged csv file at" + os.path.abspath(csv_merge_file))
 except Exception as e:
     print(e)

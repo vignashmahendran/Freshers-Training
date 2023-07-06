@@ -9,7 +9,7 @@ while(True):
 sub_str=input("Enter letter to start in names :")
 
 newlist=lambda list1,sub :[x for x in list1 if sub == x[0]]
-print("------Names-------")
+print("------Names Result-------")
 
 for i in newlist(names,sub_str):
     print(i)

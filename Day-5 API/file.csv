@@ -1,0 +1,28 @@
+,id,name,slug,powerstats,appearance,biography,work,connections,images
+intelligence,38,Aquaman,38-aquaman,81.0,,,,,
+strength,38,Aquaman,38-aquaman,85.0,,,,,
+speed,38,Aquaman,38-aquaman,79.0,,,,,
+durability,38,Aquaman,38-aquaman,80.0,,,,,
+power,38,Aquaman,38-aquaman,100.0,,,,,
+combat,38,Aquaman,38-aquaman,80.0,,,,,
+gender,38,Aquaman,38-aquaman,,Male,,,,
+race,38,Aquaman,38-aquaman,,Atlantean,,,,
+height,38,Aquaman,38-aquaman,,"[""6'1"", '185 cm']",,,,
+weight,38,Aquaman,38-aquaman,,"['325 lb', '146 kg']",,,,
+eyeColor,38,Aquaman,38-aquaman,,Blue,,,,
+hairColor,38,Aquaman,38-aquaman,,Blond,,,,
+fullName,38,Aquaman,38-aquaman,,,Orin,,,
+alterEgos,38,Aquaman,38-aquaman,,,No alter egos found.,,,
+aliases,38,Aquaman,38-aquaman,,,"['Dweller in the Depths', 'Swimmer', 'Waterbearer', 'Mental Man', 'Aquaboy', 'Water Wraith']",,,
+placeOfBirth,38,Aquaman,38-aquaman,,,Atlantis,,,
+firstAppearance,38,Aquaman,38-aquaman,,,"More Fun Comics #73 (November, 1941)",,,
+publisher,38,Aquaman,38-aquaman,,,DC Comics,,,
+alignment,38,Aquaman,38-aquaman,,,good,,,
+occupation,38,Aquaman,38-aquaman,,,,"Protector of the Seas and Oceans, King of Poseidonis",,
+base,38,Aquaman,38-aquaman,,,,"Atlantean Royal Palace; Poseidonis, Atlantis",,
+groupAffiliation,38,Aquaman,38-aquaman,,,,,"Justice League, Aquaman Family, Atlantean Royal Family; formerly Black Lantern Corps, Justice League International, Justice League Detroit, U.N.",
+relatives,38,Aquaman,38-aquaman,,,,,"Koryak (son), Arthur Curry, Jr. (son), A.J. (son), Orm Marius (half-brother), Debbie Perkins (half-sister), Drin (adopted brother), Atlanna (mother), Atlan (father), Atlena (aunt), Porm (adopted mother), Tom Curry (adopted father), Mera (wife), Hila (sister-in-law), Haumond (uncle), Kraken (uncle), Honsu (grandfather), Lorelei (grandmother), Manu (ancestor), Nala (ancestor), Fatima (ancestor), Kalunga (ancestor), Gana (ancestor), Fiona (ancestor), Regin (ancestor), Kordax (ancestor), Bazil (ancestor), Cora (ancestor), Illya (ancestor), Dardanus (ancestor), Alloroc (ancestor), Cole (ancestor), Narmea (ancestor), Orin (ancestor), Loma (ancestor), Shalako (ancestor), Thorvall (ancestor)",
+xs,38,Aquaman,38-aquaman,,,,,,https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/38-aquaman.jpg
+sm,38,Aquaman,38-aquaman,,,,,,https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/38-aquaman.jpg
+md,38,Aquaman,38-aquaman,,,,,,https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/38-aquaman.jpg
+lg,38,Aquaman,38-aquaman,,,,,,https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/38-aquaman.jpg

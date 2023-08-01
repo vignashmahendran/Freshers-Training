@@ -18,7 +18,12 @@
 
 ## 9.File Encoding
 
-## 10.Excel operations
+<<<<<<< HEAD
+
+## 10.Data Analysis in Excel
 
 ## 11.Flask
 
+=======
+
+> > > > > > > eb93244776989fd4e28feafe583c35ecc833944d
